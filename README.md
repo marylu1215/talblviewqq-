@@ -1,2 +1,2 @@
-# talblviewqq-
-点击按钮模仿tableview上移的效果 
+# -tableview-
+模仿聊天消息界面的发送 
